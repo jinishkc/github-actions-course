@@ -1,2 +1,2 @@
 # github-actions-course
-testing course
+Repo containing all examples and notes for GH Actns
